@@ -1,0 +1,33 @@
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #159957;
+    width: 100%;
+    background-image: linear-gradient(120deg, #e60909, #159957);
+}
+
+.my-button {
+    display: block;
+    margin: 0 auto;
+    position: fixed;
+    align-content: center;
+    
+}
+    
+        
+body { 
+    font-family: Arial, sans-serif; 
+    background-color: #32373c; 
+    color: #ffffff; 
+} 
+
+
+}
+ 
+h1 { 
+    color: #ffffff; 
+} 
+ 
+p { 
+    font-size: 12px; 
+} 
